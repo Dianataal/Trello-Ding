@@ -2,6 +2,7 @@ Introduction
 
 Code for a Power-Up in Trello that tracks lists with a keyword and the card movement in those. Probably.
 Currently made for this: https://trello.com/b/ZoVZDKTr/testroom It wants to be a Power-Up some day.
+Ding because it sort-of dings when something changes.
 
 Working:
 * Lists with -top data displayed
