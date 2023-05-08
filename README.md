@@ -10,10 +10,11 @@ Working:
 * Moving cards between all lists - from no-top lists show a new card is added, from top to top lists shows card is moved from list name to list name
 * Adding cards to -top lists shows a card added but non-top lists don't
 
-'it's not a bug it's a feature'?:
+Things that don't work and maybe don't need to:
 * When changing a list name to include -top log will display all cards in that list as they were just added and when removing -top it will log that they were deleted
 > Add bit to log that a new -top list was made?
-
-Bugged:
 * Removing cards (archive) doesn't show anything in log. Neither does deleting them from archive.
 > Get this part working if a card is archived/deleted. Or is it really necessary.....?
+
+Changes:
+*Changed first fetch to look at lists instead of cards. 
