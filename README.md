@@ -18,4 +18,5 @@ Things that don't work and maybe don't need to:
 > Get this part working if a card is archived/deleted. Or is it really necessary.....?
 
 Changes:
-*Changed first fetch to look at lists instead of cards. 
+* Changed first fetch to look at lists instead of cards. 
+* No longer shows card movement if moved to non-keyword lists.
