@@ -17,3 +17,5 @@ Working:
 Bugged:
 * Removing cards (archive) doesn't show anything in log. Neither does deleting them from archive.
 > Get this part working if a card is archived/deleted. Or is it really necessary.....?
+* Moving card from keyword list, then non-keyword list and back to same keyword list does not show it being returned in logs. Moving it to another keyword list still logs 'moved from list1 to list2' properly.
+* Sometimes moving cards from non-keyword to keyword lists shows that a new card was added and sometimes it does not. wtf why
